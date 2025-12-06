@@ -26,6 +26,7 @@ buildNumber.properties
 *.zip
 *.tar.gz
 *.rar
+!doc/screenshots.zip
 hs_err_pid*
 replay_pid*
 
